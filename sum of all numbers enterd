@@ -1,0 +1,24 @@
+import java.util.*;
+class sum
+{
+public static void main(string args{})
+{
+int sum=0;
+System.out.println ("Enter no.")
+int b;
+b=sc.nextInt();
+if (b!=0){
+sum=sum+b;}
+if (b!=0)
+{
+System.out.println ("Enter no., enter zero if you want to stop");
+b=sc.nextInt();
+sum=sum+b;
+}
+else
+{
+System.out.println ("Sum of all no. entered="+sum);
+Syste.exit(0);
+}
+}
+}
